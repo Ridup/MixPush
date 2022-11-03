@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.ridup.base.mix.push.config.MixPushConfiguration
